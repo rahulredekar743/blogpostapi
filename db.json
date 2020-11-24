@@ -1,15 +1,18 @@
 {
-  "timeStamp": [
+  "blogPost": [
     {
-      "title": "new neeting",
-      "st_time": "1",
-      "end_time": "2",
+      "title": "New title",
+      "content": "New Content",
+      "id": 1
+    },
+    {
+      "title": "New Title 2",
+      "content": "New Comment 2",
       "id": 2
     },
     {
-      "title": "google meet",
-      "st_time": "12",
-      "end_time": "6pm",
+      "title": "New Title 2",
+      "content": "New Content 2",
       "id": 3
     }
   ]
